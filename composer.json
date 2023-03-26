@@ -1,0 +1,17 @@
+{
+    "name": "borison4ik/tests",
+    "require": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Borison4ik\\Tests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Borisenko Valentin",
+            "email": "ext-vborisenko@ozon.ru"
+        }
+    ]
+}
